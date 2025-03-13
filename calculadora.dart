@@ -1,3 +1,4 @@
 main (){
-    print 'socorro';
+    print: 'socorro';
+    int valor1 = 0;
 }
