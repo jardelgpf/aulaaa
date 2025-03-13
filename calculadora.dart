@@ -1,4 +1,4 @@
 main (){
     print: 'socorro';
-    int valor1 = 100;
+    int valor1 = 150;
 }
