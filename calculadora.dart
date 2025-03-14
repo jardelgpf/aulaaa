@@ -1,5 +1,5 @@
 main (){
     print: 'socorro';
-    int valor1 = 1;
+    int valorr1 = 1;
 
 }
